@@ -1,0 +1,61 @@
+/*
+ * Copyright (c) 2021 Manexim (https://github.com/manexim)
+ *
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public
+ * License as published by the Free Software Foundation; either
+ * version 2 of the License, or (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public
+ * License along with this program; if not, write to the
+ * Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ * Boston, MA 02110-1301 USA
+ *
+ * Authored by: Marius Meisenzahl <mariusmeisenzahl@gmail.com>
+ */
+
+namespace Insomnia.Constants {
+    private const string APP_ID = "@APP_ID@";
+    private const string APP_AUTHOR = "Manexim";
+    private const string APP_NAME = "Insomnia";
+    private const string APP_VERSION = "@APP_VERSION@";
+
+    private const string GETTEXT_PACKAGE = "@GETTEXT_PACKAGE@";
+    private const string LOCALEDIR = "@LOCALEDIR@";
+
+    private const string INACTIVE_STRING = _("Inactive");
+    private const int INACTIVE_SECONDS = 0;
+
+    private const string 5_MIN_STRING = _("5 min");
+    private const int 5_MIN_SECONDS = 300;
+
+    private const string 10_MIN_STRING = _("10 min");
+    private const int 10_MIN_SECONDS = 600;
+
+    private const string 15_MIN_STRING = _("15 min");
+    private const int 15_MIN_SECONDS = 900;
+
+    private const string 30_MIN_STRING = _("30 min");
+    private const int 30_MIN_SECONDS = 1800;
+
+    private const string 45_MIN_STRING = _("45 min");
+    private const int 45_MIN_SECONDS = 2700;
+
+    private const string 1_HOUR_STRING = _("1 hour");
+    private const int 1_HOUR_SECONDS = 3600;
+
+    private const string 2_HOURS_STRING = _("2 hours");
+    private const int 2_HOURS_SECONDS = 7200;
+
+    private const string ACTIVE_STRING = _("Active");
+    private const string INDEFINITELY_STRING = _("Indefinitely");
+    private const int INDEFINITELY_SECONDS = -1;
+
+    private const string INHIBIT_STRING = _("Prevent the display from being turned off or the device from going into sleep mode");
+    private const string MENU_STRING = _("Menu");
+}

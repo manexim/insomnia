@@ -1,0 +1,46 @@
+[Desktop Entry]
+Type=Application
+Name=Insomnia
+Comment=Prevent the display from being turned off or the device from going into sleep mode
+Exec=com.github.manexim.insomnia
+Icon=com.github.manexim.insomnia
+Terminal=false
+Categories=GNOME;GTK;
+X-GNOME-UsesNotifications=false
+Actions=0;300;600;900;1800;2700;3600;7200;-1;
+
+[Desktop Action 0]
+Name=Follow system power settings
+Exec=com.github.manexim.insomnia 0
+
+[Desktop Action 300]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 5 min
+Exec=com.github.manexim.insomnia 300
+
+[Desktop Action 600]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 10 min
+Exec=com.github.manexim.insomnia 600
+
+[Desktop Action 900]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 15 min
+Exec=com.github.manexim.insomnia 900
+
+[Desktop Action 1800]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 30 min
+Exec=com.github.manexim.insomnia 1800
+
+[Desktop Action 2700]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 45 min
+Exec=com.github.manexim.insomnia 2700
+
+[Desktop Action 3600]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 1 hour
+Exec=com.github.manexim.insomnia 3600
+
+[Desktop Action 7200]
+Name=Prevent the display from being turned off or the device from going into sleep mode for 2 hours
+Exec=com.github.manexim.insomnia 7200
+
+[Desktop Action -1]
+Name=Prevent the display from being turned off or the device from going into sleep mode
+Exec=com.github.manexim.insomnia -1
