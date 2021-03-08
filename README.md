@@ -45,6 +45,7 @@ These dependencies must be present before building:
 
 -   `libgranite-dev`
 -   `libgtk-3-dev`
+-   `libhandy-1-dev` >=1.0.0
 -   `meson`
 -   `valac`
 
