@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://travis-ci.org/manexim/insomnia">
-    <img src="https://img.shields.io/travis/manexim/insomnia.svg">
+  <a href="https://github.com/manexim/insomnia/actions/workflows/main.yml">
+    <img src="https://github.com/manexim/insomnia/workflows/CI/badge.svg">
   </a>
   <a href="https://github.com/manexim/insomnia/releases/">
     <img src="https://img.shields.io/github/release/manexim/insomnia.svg">
