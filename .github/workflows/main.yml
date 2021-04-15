@@ -30,7 +30,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: bilelmoussaoui/flatpak-github-actions@master
       with:
-        bundle: "insomnia.flatpak"
+        bundle: "com.github.manexim.insomnia.flatpak"
         manifest-path: "com.github.manexim.insomnia.yml"
         run-tests: "true"
         repository-name: "elementary"
