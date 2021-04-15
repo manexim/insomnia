@@ -1,0 +1,111 @@
+# French translations for extra package.
+# Copyright (C) 2021 THE extra'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# Nathan Bonnemains (@NathanBnm), 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-05 19:50+0200\n"
+"PO-Revision-Date: 2021-04-05 19:43+0200\n"
+"Last-Translator: Nathan Bonnemains (@NathanBnm)\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:7
+#: data/com.github.manexim.insomnia.desktop.in:4
+msgid "Insomnia"
+msgstr "Insomnia"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:8
+#: data/com.github.manexim.insomnia.desktop.in:5
+#: data/com.github.manexim.insomnia.desktop.in:46
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode"
+msgstr "Empêchez l'écran de s'éteindre et l'appareil de se mettre en veille"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:10
+msgid ""
+"Insomnia helps to keep your device awake, without needing to adjust your "
+"system power settings."
+msgstr ""
+"Insomnia vous aide à garder votre appareil allumé, sans avoir besoin "
+"d'ajuster vos paramètres d'alimentation du système."
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:21
+msgid "Initial release"
+msgstr "Version initiale"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:39
+msgid "Manexim"
+msgstr "Manexim"
+
+#: data/com.github.manexim.insomnia.desktop.in:7
+msgid "com.github.manexim.insomnia"
+msgstr "com.github.manexim.insomnia"
+
+#: data/com.github.manexim.insomnia.desktop.in:14
+msgid "Follow system power settings"
+msgstr "Suivre les paramètres d'alimentation du système"
+
+#: data/com.github.manexim.insomnia.desktop.in:18
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 5 min"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"5 min"
+
+#: data/com.github.manexim.insomnia.desktop.in:22
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 10 min"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"10 min"
+
+#: data/com.github.manexim.insomnia.desktop.in:26
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 15 min"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"15 min"
+
+#: data/com.github.manexim.insomnia.desktop.in:30
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 30 min"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"30 min"
+
+#: data/com.github.manexim.insomnia.desktop.in:34
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 45 min"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"45 min"
+
+#: data/com.github.manexim.insomnia.desktop.in:38
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 1 hour"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"1 heure"
+
+#: data/com.github.manexim.insomnia.desktop.in:42
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 2 hours"
+msgstr ""
+"Empêcher l'écran de s'éteindre et l'appareil de se mettre en veille pendant "
+"2 heures"

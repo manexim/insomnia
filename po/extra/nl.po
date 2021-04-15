@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-23 13:17+0100\n"
+"PO-Revision-Date: 2021-03-25 13:13+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:7
+#: data/com.github.manexim.insomnia.desktop.in:4
+msgid "Insomnia"
+msgstr "Insomnia"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:8
+#: data/com.github.manexim.insomnia.desktop.in:5
+#: data/com.github.manexim.insomnia.desktop.in:46
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode"
+msgstr ""
+"Voorkom dat het scherm wordt uitgeschakeld of dat het apparaat in de "
+"slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:10
+msgid ""
+"Insomnia helps to keep your device awake, without needing to adjust your "
+"system power settings."
+msgstr ""
+"Insomnia voorkomt dat je apparaat in de slaapstand gaat zonder dat je je "
+"energie-instellingen hoeft aan te passen."
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:21
+msgid "Initial release"
+msgstr "Initiële uitgave"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:39
+msgid "Manexim"
+msgstr "Manexim"
+
+#: data/com.github.manexim.insomnia.desktop.in:7
+msgid "com.github.manexim.insomnia"
+msgstr "com.github.manexim.insomnia"
+
+#: data/com.github.manexim.insomnia.desktop.in:14
+msgid "Follow system power settings"
+msgstr "Systeeminstellingen gebruiken"
+
+#: data/com.github.manexim.insomnia.desktop.in:18
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 5 min"
+msgstr ""
+"Voorkom 5 min. lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:22
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 10 min"
+msgstr ""
+"Voorkom 10 min. lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:26
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 15 min"
+msgstr ""
+"Voorkom 15 min. lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:30
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 30 min"
+msgstr ""
+"Voorkom 30 min. lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:34
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 45 min"
+msgstr ""
+"Voorkom 45 min. lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:38
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 1 hour"
+msgstr ""
+"Voorkom 1 uur lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
+
+#: data/com.github.manexim.insomnia.desktop.in:42
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 2 hours"
+msgstr ""
+"Voorkom 2 uur lang dat het scherm wordt uitgeschakeld of dat het "
+"apparaat in de slaapstand gaat"
