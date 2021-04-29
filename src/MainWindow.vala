@@ -19,8 +19,8 @@
  * Authored by: Marius Meisenzahl <mariusmeisenzahl@gmail.com>
  */
 
-public class Insomnia.MainWindow : Gtk.ApplicationWindow {
-    private Gtk.HeaderBar headerbar;
+public class Insomnia.MainWindow : Hdy.Window {
+    private Hdy.HeaderBar headerbar;
     private Gtk.Label title_label;
 
     private bool timer_started;
@@ -38,12 +38,13 @@ public class Insomnia.MainWindow : Gtk.ApplicationWindow {
     }
 
     construct {
-        get_style_context ().add_class ("rounded");
+        Hdy.init ();
 
-        headerbar = new Gtk.HeaderBar () {
-            show_close_button = true
+        headerbar = new Hdy.HeaderBar () {
+            decoration_layout = "close:",
+            show_close_button = true,
+            title = Constants.APP_NAME
         };
-        headerbar.get_style_context ().add_class ("default-decoration");
 
         var menu_widget = new Gtk.Grid () {
             orientation = Gtk.Orientation.VERTICAL,
@@ -113,11 +114,11 @@ public class Insomnia.MainWindow : Gtk.ApplicationWindow {
 
         headerbar.pack_end (app_menu);
 
-        set_titlebar (headerbar);
-
         var grid = new Gtk.Grid () {
             halign = Gtk.Align.CENTER,
-            valign = Gtk.Align.CENTER
+            valign = Gtk.Align.CENTER,
+            hexpand = true,
+            vexpand = true
         };
 
         title_label = new Gtk.Label ("") {
@@ -127,7 +128,14 @@ public class Insomnia.MainWindow : Gtk.ApplicationWindow {
 
         grid.add (title_label);
 
-        add (grid);
+        var main_layout = new Gtk.Box (Gtk.Orientation.VERTICAL, 0);
+        main_layout.add (headerbar);
+        main_layout.add (grid);
+
+        var window_handle = new Hdy.WindowHandle ();
+        window_handle.add (main_layout);
+
+        add (window_handle);
     }
 
     private void update () {

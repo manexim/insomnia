@@ -8,10 +8,12 @@ add_global_arguments('-DGETTEXT_PACKAGE="@0@"'.format (meson.project_name()), la
 
 granite_dep = dependency('granite')
 gtk_plus_3_dep = dependency('gtk+-3.0')
+libhandy_dep = dependency('libhandy-1', version: '>=1.0.0')
 
 dependencies = [
     granite_dep,
     gtk_plus_3_dep,
+    libhandy_dep,
 ]
 
 subdir('data')
