@@ -1,6 +1,6 @@
 app-id: com.github.manexim.insomnia
 runtime: io.elementary.Platform
-runtime-version: daily
+runtime-version: '6'
 sdk: io.elementary.Sdk
 command: com.github.manexim.insomnia
 finish-args:
