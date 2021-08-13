@@ -23,7 +23,6 @@
 public interface Insomnia.ScreenSaverIface : Object {
     public abstract uint32 inhibit (string app_name, string reason) throws Error;
     public abstract void un_inhibit (uint32 cookie) throws Error;
-    public abstract void simulate_user_activity () throws Error;
 }
 
 public class Insomnia.Inhibitor : Object {
@@ -37,7 +36,6 @@ public class Insomnia.Inhibitor : Object {
     private ScreenSaverIface? screensaver_iface = null;
 
     private bool inhibited = false;
-    private bool simulator_started = false;
 
     private Inhibitor () {
         try {
@@ -60,7 +58,6 @@ public class Insomnia.Inhibitor : Object {
             try {
                 inhibited = true;
                 inhibit_cookie = screensaver_iface.inhibit (Constants.APP_ID, Constants.INHIBIT_STRING);
-                simulate_activity ();
                 debug ("Inhibiting screen");
             } catch (Error e) {
                 warning ("Could not inhibit screen: %s", e.message);
@@ -78,29 +75,5 @@ public class Insomnia.Inhibitor : Object {
                 warning ("Could not uninhibit screen: %s", e.message);
             }
         }
-    }
-
-   /*
-    * Inhibit currently does not block a suspend from ocurring,
-    * so we simulate user activity every 2 mins to prevent it
-    */
-    private void simulate_activity () {
-        if (simulator_started) return;
-
-        simulator_started = true;
-        Timeout.add_full (Priority.DEFAULT, 120000, ()=> {
-            if (inhibited) {
-                try {
-                    debug ("Simulating activity");
-                    screensaver_iface.simulate_user_activity ();
-                } catch (Error e) {
-                    warning ("Could not simulate user activity: %s", e.message);
-                }
-            } else {
-                simulator_started = false;
-            }
-
-            return inhibited;
-        });
     }
 }
