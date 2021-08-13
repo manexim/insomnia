@@ -10,6 +10,9 @@ finish-args:
 
   # needed for perfers-color-scheme
   - '--system-talk-name=org.freedesktop.Accounts'
+
+  # needed for inhibitor
+  - '--talk-name=org.freedesktop.ScreenSaver'
 modules:
   - name: insomnia
     buildsystem: meson
