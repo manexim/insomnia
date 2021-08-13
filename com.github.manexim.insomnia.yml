@@ -1,0 +1,21 @@
+app-id: com.github.manexim.insomnia
+runtime: io.elementary.Platform
+runtime-version: '6'
+sdk: io.elementary.Sdk
+command: com.github.manexim.insomnia
+finish-args:
+  - '--share=ipc'
+  - '--socket=fallback-x11'
+  - '--socket=wayland'
+
+  # needed for perfers-color-scheme
+  - '--system-talk-name=org.freedesktop.Accounts'
+
+  # needed for inhibitor
+  - '--talk-name=org.freedesktop.ScreenSaver'
+modules:
+  - name: insomnia
+    buildsystem: meson
+    sources:
+      - type: dir
+        path: .
