@@ -24,14 +24,29 @@
 </p>
 
 <p align="center">
-  <img src="data/screenshots/000.png">
   <table>
+    <tr>
+      <td>
+        <img src="data/screenshots/000.png">
+      </td>
+      <td>
+        <img src="data/screenshots/000-dark.png">
+      </td>
+    </tr>
     <tr>
       <td>
         <img src="data/screenshots/001.png">
       </td>
       <td>
+        <img src="data/screenshots/001-dark.png">
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="data/screenshots/002.png">
+      </td>
+      <td>
+        <img src="data/screenshots/002-dark.png">
       </td>
     </tr>
   </table>
@@ -88,7 +103,10 @@ Your commit message should describe what the commit, when applied, does to the c
 
 | Name                                            | Language   |
 | ----------------------------------------------- | ---------- |
+| [Vistaus](https://github.com/Vistaus)           | Dutch 🇳🇱   |
+| [NathanBnm](https://github.com/NathanBnm)       | French 🇫🇷  |
 | [meisenzahl](https://github.com/meisenzahl)     | German 🇩🇪  |
+| [JosExposito](https://github.com/JoseExposito)  | Spanish 🇪🇸 |
 
 ## License
 
