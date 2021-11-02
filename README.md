@@ -101,12 +101,14 @@ Your commit message should describe what the commit, when applied, does to the c
 
 ### Translators
 
-| Name                                            | Language   |
-| ----------------------------------------------- | ---------- |
-| [Vistaus](https://github.com/Vistaus)           | Dutch 🇳🇱   |
-| [NathanBnm](https://github.com/NathanBnm)       | French 🇫🇷  |
-| [meisenzahl](https://github.com/meisenzahl)     | German 🇩🇪  |
-| [JosExposito](https://github.com/JoseExposito)  | Spanish 🇪🇸 |
+| Name                                               | Language   |
+| -------------------------------------------------- | ---------- |
+| [Vistaus](https://github.com/Vistaus)              | Dutch 🇳🇱   |
+| [NathanBnm](https://github.com/NathanBnm)          | French 🇫🇷  |
+| [meisenzahl](https://github.com/meisenzahl)        | German 🇩🇪  |
+| [JoseExposito](https://github.com/JoseExposito)    | Spanish 🇪🇸 |
+| [youngLights14](https://github.com/youngLights14)  | Serbian 🇷🇸 |
+| [asdffdsdaf](https://github.com/asdffdsdaf)        | Russian 🇷🇺 |
 
 ## License
 
