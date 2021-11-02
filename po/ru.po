@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.manexim.insomnia package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.manexim.insomnia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-23 12:31+0100\n"
+"PO-Revision-Date: 2021-08-14 15:38+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: asdffdsdaf <asdffdsdaf@gmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: src/Constants.vala.in:31
+msgid "Inactive"
+msgstr "Выключено"
+
+#: src/Constants.vala.in:34
+msgid "5 min"
+msgstr "5 минут"
+
+#: src/Constants.vala.in:37
+msgid "10 min"
+msgstr "10 минут"
+
+#: src/Constants.vala.in:40
+msgid "15 min"
+msgstr "15 минут"
+
+#: src/Constants.vala.in:43
+msgid "30 min"
+msgstr "30 минут"
+
+#: src/Constants.vala.in:46
+msgid "45 min"
+msgstr "45 минут"
+
+#: src/Constants.vala.in:49
+msgid "1 hour"
+msgstr "1 час"
+
+#: src/Constants.vala.in:52
+msgid "2 hours"
+msgstr "2 часа"
+
+#: src/Constants.vala.in:55
+msgid "Active"
+msgstr "Включено"
+
+#: src/Constants.vala.in:56
+msgid "Indefinitely"
+msgstr "Бессрочно"
+
+#: src/Constants.vala.in:59
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode"
+msgstr "Предотвращает выключение дисплея или уход компьютера в режим сна"
+
+#: src/Constants.vala.in:60
+msgid "Menu"
+msgstr "Меню"
