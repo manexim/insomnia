@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-23 13:17+0100\n"
+"PO-Revision-Date: 2021-08-14 15:34+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Last-Translator: asdffdsdaf <asdffdsdaf@gmail.com>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:7
+#: data/com.github.manexim.insomnia.desktop.in:4
+msgid "Insomnia"
+msgstr "Insomnia"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:8
+#: data/com.github.manexim.insomnia.desktop.in:5
+#: data/com.github.manexim.insomnia.desktop.in:46
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode"
+msgstr "Предотвращает выключение дисплея или уход компьютера в режим сна"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:10
+msgid ""
+"Insomnia helps to keep your device awake, without needing to adjust your "
+"system power settings."
+msgstr ""
+"Insomnia помогает поддерживать Ваше устройство в режиме бодрствования, "
+"без необходимости настраивать параметры питания."
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:21
+msgid "Initial release"
+msgstr "Первый релиз"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:39
+msgid "Manexim"
+msgstr "Manexim"
+
+#: data/com.github.manexim.insomnia.desktop.in:7
+msgid "com.github.manexim.insomnia"
+msgstr "com.github.manexim.insomnia"
+
+#: data/com.github.manexim.insomnia.desktop.in:14
+msgid "Follow system power settings"
+msgstr "Придерживаться системных настроек питания"
+
+#: data/com.github.manexim.insomnia.desktop.in:18
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 5 min"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 5 "
+"минут"
+
+#: data/com.github.manexim.insomnia.desktop.in:22
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 10 min"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 10 "
+"минут"
+
+#: data/com.github.manexim.insomnia.desktop.in:26
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 15 min"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 15 "
+"минут"
+
+#: data/com.github.manexim.insomnia.desktop.in:30
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 30 min"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 30 "
+"минут"
+
+#: data/com.github.manexim.insomnia.desktop.in:34
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 45 min"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 45 "
+"минут"
+
+#: data/com.github.manexim.insomnia.desktop.in:38
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 1 hour"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 1 час"
+
+#: data/com.github.manexim.insomnia.desktop.in:42
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 2 hours"
+msgstr ""
+"Предотвращать выключение дисплея или уход компьютера в режим сна на 2 "
+"часа"
