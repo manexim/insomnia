@@ -1,4 +1,4 @@
-project('com.github.manexim.insomnia', 'vala', 'c', version: '1.1.0')
+project('com.github.manexim.insomnia', 'vala', 'c', version: '1.1.2')
 
 # Include the translations module
 i18n = import('i18n')
