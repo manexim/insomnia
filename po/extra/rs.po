@@ -1,0 +1,113 @@
+# German translations for extra package.
+# Copyright (C) 2021 THE extra'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the extra package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-23 13:17+0100\n"
+"PO-Revision-Date: 2021-01-23 12:33+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: rs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:7
+#: data/com.github.manexim.insomnia.desktop.in:4
+msgid "Insomnia"
+msgstr "Insomnija"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:8
+#: data/com.github.manexim.insomnia.desktop.in:5
+#: data/com.github.manexim.insomnia.desktop.in:46
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja."
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:10
+msgid ""
+"Insomnia helps to keep your device awake, without needing to adjust your "
+"system power settings."
+msgstr ""
+"Insomnija pomaže tvom uređaju da se ne uspava bez potrebe da se podese "
+"stvari u sistemskim podešavanjima za napajanje."
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:21
+msgid "Initial release"
+msgstr "Inicijalno izdanje"
+
+#: data/com.github.manexim.insomnia.appdata.xml.in:39
+msgid "Manexim"
+msgstr "Manexim"
+
+#: data/com.github.manexim.insomnia.desktop.in:7
+msgid "com.github.manexim.insomnia"
+msgstr "com.github.manexim.insomnia"
+
+#: data/com.github.manexim.insomnia.desktop.in:14
+msgid "Follow system power settings"
+msgstr "Prati sistemska podešavanja za napajanje"
+
+#: data/com.github.manexim.insomnia.desktop.in:18
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 5 min"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"5 minuta"
+
+#: data/com.github.manexim.insomnia.desktop.in:22
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 10 min"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"10 minuta"
+
+
+#: data/com.github.manexim.insomnia.desktop.in:26
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 15 min"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"15 minuta"
+
+#: data/com.github.manexim.insomnia.desktop.in:30
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 30 min"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"30 minuta"
+
+#: data/com.github.manexim.insomnia.desktop.in:34
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 45 min"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"na 45 minuta"
+
+#: data/com.github.manexim.insomnia.desktop.in:38
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 1 hour"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"1 sat"
+
+#: data/com.github.manexim.insomnia.desktop.in:42
+msgid ""
+"Prevent the display from being turned off or the device from going into "
+"sleep mode for 2 hours"
+msgstr ""
+"Zaustavi ekran od gašenja ili uređaj od odlaska u režim spavanja na "
+"2 sata"
