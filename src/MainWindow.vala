@@ -124,6 +124,7 @@ public class Insomnia.MainWindow : Hdy.Window {
         title_label = new Gtk.Label ("") {
             use_markup = true
         };
+        title_label.get_style_context ().add_class (Granite.STYLE_CLASS_ACCENT);
         title_label.get_style_context ().add_class (Granite.STYLE_CLASS_H1_LABEL);
 
         grid.add (title_label);
