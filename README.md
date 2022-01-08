@@ -1,12 +1,12 @@
 <div align="center">
-  <span align="center"> <img width="80" height="80" class="center" src="data/icons/128/com.github.manexim.insomnia.svg" alt="Icon"></span>
+  <span align="center"> <img width="80" height="80" class="center" src="data/icons/128/com.manexim.insomnia.svg" alt="Icon"></span>
   <h1 align="center">Insomnia</h1>
   <h3 align="center">Prevent the display from being turned off or the device from going into sleep mode</h3>
   <p align="center">Designed for <a href="https://elementary.io">elementary OS</a></p>
 </div>
 
 <p align="center">
-  <a href="https://appcenter.elementary.io/com.github.manexim.insomnia" target="_blank">
+  <a href="https://appcenter.elementary.io/com.manexim.insomnia" target="_blank">
     <img src="https://appcenter.elementary.io/badge.svg">
   </a>
 </p>
@@ -72,7 +72,7 @@ meson build --prefix=/usr
 cd build
 ninja
 sudo ninja install
-com.github.manexim.insomnia
+com.manexim.insomnia
 ```
 
 ### Deconstruct

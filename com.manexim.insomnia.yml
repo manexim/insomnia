@@ -1,8 +1,8 @@
-app-id: com.github.manexim.insomnia
+app-id: com.manexim.insomnia
 runtime: io.elementary.Platform
 runtime-version: '6.1'
 sdk: io.elementary.Sdk
-command: com.github.manexim.insomnia
+command: com.manexim.insomnia
 finish-args:
   - '--share=ipc'
   - '--socket=fallback-x11'

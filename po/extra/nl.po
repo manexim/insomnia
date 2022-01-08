@@ -18,14 +18,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Language: nl\n"
 
-#: data/com.github.manexim.insomnia.appdata.xml.in:7
-#: data/com.github.manexim.insomnia.desktop.in:4
+#: data/com.manexim.insomnia.appdata.xml.in:7
+#: data/com.manexim.insomnia.desktop.in:4
 msgid "Insomnia"
 msgstr "Insomnia"
 
-#: data/com.github.manexim.insomnia.appdata.xml.in:8
-#: data/com.github.manexim.insomnia.desktop.in:5
-#: data/com.github.manexim.insomnia.desktop.in:46
+#: data/com.manexim.insomnia.appdata.xml.in:8
+#: data/com.manexim.insomnia.desktop.in:5
+#: data/com.manexim.insomnia.desktop.in:46
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode"
@@ -33,7 +33,7 @@ msgstr ""
 "Voorkom dat het scherm wordt uitgeschakeld of dat het apparaat in de "
 "slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.appdata.xml.in:10
+#: data/com.manexim.insomnia.appdata.xml.in:10
 msgid ""
 "Insomnia helps to keep your device awake, without needing to adjust your "
 "system power settings."
@@ -41,23 +41,23 @@ msgstr ""
 "Insomnia voorkomt dat je apparaat in de slaapstand gaat zonder dat je je "
 "energie-instellingen hoeft aan te passen."
 
-#: data/com.github.manexim.insomnia.appdata.xml.in:21
+#: data/com.manexim.insomnia.appdata.xml.in:21
 msgid "Initial release"
 msgstr "Initiële uitgave"
 
-#: data/com.github.manexim.insomnia.appdata.xml.in:39
+#: data/com.manexim.insomnia.appdata.xml.in:39
 msgid "Manexim"
 msgstr "Manexim"
 
-#: data/com.github.manexim.insomnia.desktop.in:7
-msgid "com.github.manexim.insomnia"
-msgstr "com.github.manexim.insomnia"
+#: data/com.manexim.insomnia.desktop.in:7
+msgid "com.manexim.insomnia"
+msgstr "com.manexim.insomnia"
 
-#: data/com.github.manexim.insomnia.desktop.in:14
+#: data/com.manexim.insomnia.desktop.in:14
 msgid "Follow system power settings"
 msgstr "Systeeminstellingen gebruiken"
 
-#: data/com.github.manexim.insomnia.desktop.in:18
+#: data/com.manexim.insomnia.desktop.in:18
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 5 min"
@@ -65,7 +65,7 @@ msgstr ""
 "Voorkom 5 min. lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:22
+#: data/com.manexim.insomnia.desktop.in:22
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 10 min"
@@ -73,7 +73,7 @@ msgstr ""
 "Voorkom 10 min. lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:26
+#: data/com.manexim.insomnia.desktop.in:26
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 15 min"
@@ -81,7 +81,7 @@ msgstr ""
 "Voorkom 15 min. lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:30
+#: data/com.manexim.insomnia.desktop.in:30
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 30 min"
@@ -89,7 +89,7 @@ msgstr ""
 "Voorkom 30 min. lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:34
+#: data/com.manexim.insomnia.desktop.in:34
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 45 min"
@@ -97,7 +97,7 @@ msgstr ""
 "Voorkom 45 min. lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:38
+#: data/com.manexim.insomnia.desktop.in:38
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 1 hour"
@@ -105,7 +105,7 @@ msgstr ""
 "Voorkom 1 uur lang dat het scherm wordt uitgeschakeld of dat het "
 "apparaat in de slaapstand gaat"
 
-#: data/com.github.manexim.insomnia.desktop.in:42
+#: data/com.manexim.insomnia.desktop.in:42
 msgid ""
 "Prevent the display from being turned off or the device from going into "
 "sleep mode for 2 hours"
