@@ -8,9 +8,6 @@ finish-args:
   - '--socket=fallback-x11'
   - '--socket=wayland'
 
-  # needed for perfers-color-scheme
-  - '--system-talk-name=org.freedesktop.Accounts'
-
   # needed for inhibitor
   - '--talk-name=org.freedesktop.ScreenSaver'
 modules:
