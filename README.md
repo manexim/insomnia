@@ -18,7 +18,7 @@
   <a href="https://github.com/manexim/insomnia/releases/">
     <img src="https://img.shields.io/github/release/manexim/insomnia.svg">
   </a>
-  <a href="https://github.com/manexim/insomnia/blob/master/COPYING">
+  <a href="https://github.com/manexim/insomnia/blob/main/COPYING">
     <img src="https://img.shields.io/github/license/manexim/insomnia.svg">
   </a>
 </p>
@@ -89,10 +89,10 @@ If you want to contribute to Insomnia and make it better, your help is very welc
 
 -   Create a personal fork of this project on GitHub.
 -   Clone the fork on your local machine. Your remote repo on GitHub is called `origin`.
--   Create a new branch to work on. Branch from `master`!
+-   Create a new branch to work on. Branch from `main`!
 -   Implement/fix your feature.
 -   Push your branch to your fork on GitHub, the remote `origin`.
--   From your fork open a pull request in the correct branch. Target the `master` branch!
+-   From your fork open a pull request in the correct branch. Target the `main` branch!
 
 And last but not least: Always write your commit messages in the present tense.
 Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
