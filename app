@@ -3,7 +3,7 @@
 # fail on first error
 set -e
 
-APP=com.github.manexim.insomnia
+APP=com.manexim.insomnia
 
 case "$1" in
     build)

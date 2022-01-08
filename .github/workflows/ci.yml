@@ -35,8 +35,8 @@ jobs:
       - name: Build
         uses: bilelmoussaoui/flatpak-github-actions/flatpak-builder@v4
         with:
-          bundle: com.github.manexim.insomnia.flatpak
-          manifest-path: com.github.manexim.insomnia.yml
+          bundle: com.manexim.insomnia.flatpak
+          manifest-path: com.manexim.insomnia.yml
           run-tests: true
           repository-name: appcenter
           repository-url: https://flatpak.elementary.io/repo.flatpakrepo
